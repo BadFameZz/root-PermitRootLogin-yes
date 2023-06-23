@@ -16,7 +16,7 @@
 
 You can use the script by executing the following command:
 
-    bash -c "$(wget -qLO - https://github.com/BadFameZz/root-PermitRootLogin-yes/blob/main/PermitRootLogin-yes.sh)"
+    bash -c "$(wget -qLO - https://github.com/BadFameZz/root-PermitRootLogin-yes/raw/main/PermitRootLogin-yes.sh)"
 
 This command will download the script and execute it directly.
 
@@ -39,7 +39,7 @@ Du kannst das Skript verwenden, indem du den folgenden Befehl ausführst:
 
 bashCopy code
 
-    bash -c "$(wget -qLO - https://github.com/BadFameZz/root-PermitRootLogin-yes/blob/main/PermitRootLogin-yes.sh)"
+    bash -c "$(wget -qLO - https://github.com/BadFameZz/root-PermitRootLogin-yes/raw/main/PermitRootLogin-yes.sh)"
 
 Dieser Befehl lädt das Skript herunter und führt es direkt aus.
 
