@@ -22,7 +22,7 @@ This command will download the script and execute it directly.
 
 #### Instructions
 
-1.  Open a terminal on your Debian-based system.
+1.  Open a terminal on your system.
 2.  Copy and paste the command mentioned above into the terminal.
 3.  Press Enter to execute the command.
 4.  If prompted, enter your administrator/root password.
